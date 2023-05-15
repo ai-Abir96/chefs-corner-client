@@ -1,0 +1,9 @@
+.nav-banner{
+    background: linear-gradient(to right, #F6EADE 80%, #F6EADE 20%);
+}
+.active{
+    text-decoration: underline;
+}
+.active-button{
+   background-color: aqua !important;
+}

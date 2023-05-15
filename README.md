@@ -12,7 +12,6 @@
   - Login/Registration
   - Homepage
   - Chef Details
-  - authentication
   
 ## Learning:
   - Routing
@@ -23,6 +22,8 @@
   - deploying server to vercel
   - deploying client to firebase
 
+## Description 
+Simple project based on user login using firebase where unauthorized user can see the homepage but the authoorized user can view the chef details
 
 
 ## Authors

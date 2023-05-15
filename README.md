@@ -1,5 +1,3 @@
-﻿# b7a10-chef-recipe-hunter-client-side-ai-Abir96
-
 ## ---------------------------Chef's Corner ---------------
 ## a website focused on chef's from japan and their cuisine
   
